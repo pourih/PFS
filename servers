@@ -1,3 +1,10 @@
+trojan://telegram-id-privatevpns@52.208.89.70:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#Dublin%20Amazon
+trojan://telegram-id-directvpn@3.10.165.116:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#London%20Amazon%201
+trojan://telegram-id-privatevpns@3.9.97.4:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#London%20Amazon%202
+trojan://telegram-id-privatevpns@35.178.7.46:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#London%20Amazon%203
+trojan://telegram-id-directvpn@52.47.62.192:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#Paris%20Amazon%201
+trojan://telegram-id-privatevpns@13.37.119.45:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#Paris%20Amazon%202
+trojan://telegram-id-privatevpns@15.188.168.175:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#Paris%20Amazon%203
 trojan://52c020954a@208.115.233.80:443?security=tls&sni=usa2.connecton.surf&type=tcp#California%20Limestone
 ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw==@54.199.83.239:2333#Tokyo%20Amazon
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#Kyiv%20G-Core
