@@ -1,6 +1,5 @@
-vmess://eyJhZGQiOiIxMDcuMTY3LjMwLjg3IiwiYWlkIjoiNjQiLCJob3N0Ijoid3d3LjMyOTMyNjcxLnh5eiIsImlkIjoiNTdmOTNlOTItZWJiOS00ZjE2LTliZGMtODIyNWQyMDEwOTk1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTY5OTE5MzEwMDM4OCIsInBvcnQiOiIzMDAwMCIsInBzIjoiQ2FsaWZvcm5pYSBTaGFya1RlY2giLCJzY3kiOiJhdXRvIiwic25pIjoid3d3LjMyOTMyNjcxLnh5eiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
-trojan://telegram-id-privatevpns@18.169.247.68:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB-18.169.247.68-0206
-trojan://telegram-id-directvpn@13.39.140.191:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.140.191-0237
-trojan://telegram-id-privatevpns@18.133.191.145:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB-18.133.191.145-0309
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.195.96:110#%F0%9F%87%AB%F0%9F%87%B7FR-51.158.195.96-0924
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@89.187.179.192:443#%F0%9F%87%BA%F0%9F%87%B8US-89.187.179.192-0759
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.195.96:110#Amsterdam%20Scaleway
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@89.187.179.192:443#New%20York%20DataCamp
+trojan://telegram-id-directvpn@13.39.140.191:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#Paris%20Amazon
+trojan://telegram-id-privatevpns@18.169.247.68:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#London%20Amazon
+trojan://telegram-id-privatevpns@52.30.222.118:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#Dublin%20Amazon
