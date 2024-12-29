@@ -1,9 +1,6 @@
 vmess://eyJhZGQiOiIxOTMuMjkuMTA3LjIzNCIsImFpZCI6IjY0IiwiaG9zdCI6IiIsImlkIjoiMmU5NjdkZDUtOGQyNC00MDk5LWE5MDEtNDEyZGNiNDAyNGZkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0OTAyMCIsInBzIjoi4q2QMXN0LTE5My4yOS4xMDcuMjM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.92.45.179:443#%E2%AD%902nd-35.92.45.179
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%E2%AD%903rd-45.87.175.171
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.132.123:443#34.222.132.123
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.156:2198?security=&type=tcp&encryption=none#188.119.112.156
-vless://b97e6bba-a42a-4f20-8ccf-c045d7d3bcff@5.75.148.3:8443?security=&type=tcp&encryption=none#5.75.148.3
+vless://b97e6bba-a42a-4f20-8ccf-c045d7d3bcff@5.75.148.3:8443?security=&type=tcp&encryption=none#%E2%AD%903rd-5.75.148.3
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?security=&type=tcp&encryption=none#171.22.124.195
 vless://fa590a45-02ee-4ebc-af6d-de5c5db93619@138.199.146.7:666?security=&type=tcp&encryption=none#138.199.146.7
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=&type=tcp&encryption=none#94.232.244.5
