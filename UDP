@@ -1,11 +1,4 @@
-vless://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?security=&type=tcp&encryption=none#%E2%AD%90188.245.81.145
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#45.87.175.154
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?security=&type=tcp&encryption=none#171.22.124.195
-vless://4ea312d7-3844-4ff8-8062-ed2e03ddc2a1@151.101.66.133:80?security=&type=ws&path=/ws&host=scp-only.ws.com&encryption=none#151.101.66.133
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.113.164:2198?security=&type=tcp&encryption=none#188.119.113.164
+vless://4ea312d7-3844-4ff8-8062-ed2e03ddc2a1@151.101.66.133:80?security=&type=ws&path=/ws&host=scp-only.ws.com&encryption=none#%E2%AD%90151.101.66.133
+vless://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?security=&type=tcp&encryption=none#188.245.81.145
 ss://2022-blake3-aes-256-gcm:iwVoxpUSEaEBeQK9HZap7gTAN3OGoE4rg2h9orLZvdA%3D%3ApLsOybg5ng6icspjXqxXnwfVqyGk8j29Pcpytxp7O6E%3D@64.176.71.35:42141#64.176.71.35
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.3.165:2198?security=&type=tcp&encryption=none#95.164.3.165
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.182:2198?security=&type=tcp&encryption=none#171.22.125.182
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@91.225.219.71:2198?security=&type=tcp&encryption=none#91.225.219.71
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#45.87.175.157
 vless://092f6989-74a2-5deb-841c-46622fd8f96d@151.101.64.223:80?security=&type=ws&path=/&host=O-ELi-V2-RAY.COM&encryption=none#151.101.64.223
