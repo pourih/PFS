@@ -1,7 +1,5 @@
 vless://Telegram%40v2rayng_vpnn@49.12.106.37:55822?security=reality&sni=mmd.10.isovpn.shop&fp=chrome&pbk=swrGFiH1GGLp80EgD_iDAuyb701VeVirfXCbI_5cinw&type=tcp&flow=xtls-rprx-vision&encryption=none#1st%20-%20Germany%20Hetzner
-vless://e56a9c60-30d7-4d5c-b2ea-22d72c22d7ea@51.75.91.71:22671?security=&type=tcp&headerType=http&host=telewebion.com&encryption=none#2nd%20-%20Germany%20OVH
-vless://c538dafa-4f0d-512a-ae22-c92e2e8b56fe@5.252.23.133:2052?security=&type=ws&path=/vless&host=5.252.23.133.&encryption=none#3rd%20-%20Slovakia%20Stark
-vless://2f7de7e8-18ca-4ab9-98cc-67cbbd82aa46@151.101.192.155:80?security=&type=ws&path=/Telegram-Channel:@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG?ed%3D2560&host=madgalfereshtast.com&encryption=none#[%F0%9F%87%A8%F0%9F%87%A6]-151.101.192.155
-vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.102:80?security=&sni=teleirani.ir&alpn=h2,http/1.1&fp=random&type=ws&path=/?ed%3D2048&host=teleirani.ir&encryption=none#[%F0%9F%87%BA%F0%9F%87%B8]-167.82.1.102
+vless://c538dafa-4f0d-512a-ae22-c92e2e8b56fe@5.252.23.133:2052?security=&type=ws&path=/vless&host=5.252.23.133.&encryption=none#2nd%20-%20Slovakia%20Stark
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.102:80?security=&sni=teleirani.ir&alpn=h2,http/1.1&fp=random&type=ws&path=/?ed%3D2048&host=teleirani.ir&encryption=none#3rd%20-%20England%20Amazon
 vless://fcc65a17-2587-4af5-98ad-f1ea0471ac0f@37.27.3.97:2052?security=reality&sni=mediaworld.it&fp=chrome&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&sid=4156caa9&type=grpc&serviceName=2052vless&encryption=none#[%F0%9F%87%AB%F0%9F%87%AE]-37.27.3.97
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#[%F0%9F%87%BA%F0%9F%87%B8]-212.102.47.130
