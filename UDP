@@ -1,5 +1,12 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2TUxXczFxVzVpWWhyS1BRaXBodEJm@52.13.94.104:31357#1st%20-%20United%20States%20Amazon
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#2nd%20-%20United%20States%20GTHost
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#3rd%20-%20Canada%20DataCamp
-vless://c538dafa-4f0d-512a-ae22-c92e2e8b56fe@5.252.23.133:2052?security=&type=ws&path=/vless&host=5.252.23.133.&encryption=none#Slovakia%20Stark
+vmess://eyJhZGQiOiIxNzIuNjcuMTMwLjcwIiwiYWlkIjoiMCIsImhvc3QiOiJtb2ppaWRzLmVtYWRncmFwaGljLnVzLmtnIiwiaWQiOiI5MDcyZDMzOS0zODg1LTRmZTEtYjBiYy0yOWZhNzUwNTQxMGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZml4ZWRmbG9hdGkuY2ZkL2xpbmt3c2QiLCJwb3J0IjoiNDQzIiwicHMiOiIxc3QgLSBHZXJtYW55IExpbm9kZSIsInNjeSI6ImF1dG8iLCJzbmkiOiJtb2ppaWRzLmVtYWRncmFwaGljLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@65.108.87.97:443?security=&type=ws&path=/&host=65.108.87.97&encryption=none#2nd%20-%20Finland%20Hetzner
+vless://ffe06cc2-2d2e-d5b2-4d34-fc6e8fb334ba@188.245.220.62:5052?security=reality&sni=stackoverflow.com&fp=chrome&pbk=FLIrozF9a1skg-PFqlw1iZ4lJZHA46uu7dBPNxYiUgc&sid=12a9d573ec6d2978&type=grpc&serviceName=666vless&encryption=none#3rd%20-%20Germany%20Hetzner
+vless://7de0385b-8c3b-46fd-8574-1db0c061eb9a@91.134.100.48:55235?security=reality&sni=sourceforge.net&fp=chrome&pbk=P-dMTeNvUezXYK97e_5bCXKNOZfbTDjQepoTbRFzuDw&sid=29b94609&spx=/&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#[%F0%9F%87%AB%F0%9F%87%B7]91.134.100.48
+vless://tell--ZEDMODEON@141.227.132.158:10056?security=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#[%F0%9F%87%AB%F0%9F%87%B7]141.227.132.158
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#[%F0%9F%87%BA%F0%9F%87%B8]173.244.56.6
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#Canada%20DataCamp
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZldaYnh0WG5QWDZzU0ZfbjlieXh3@91.201.215.243:2222#[%F0%9F%8F%81]91.201.215.243
+vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@188.245.215.91:443?security=&type=ws&path=/&host=4h3.ghalikermaniz.info&encryption=none#[%F0%9F%87%A9%F0%9F%87%AA]188.245.215.91
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.102:80?security=&sni=teleirani.ir&alpn=h2,http/1.1&fp=random&type=ws&path=/?ed%3D2048&host=teleirani.ir&encryption=none#[%F0%9F%87%BA%F0%9F%87%B8]167.82.1.102
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#United%20States%20GTHost
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.102:80?security=&sni=teleirani.ir&alpn=h2,http/1.1&fp=random&type=ws&path=/?ed%3D2048&host=teleirani.ir&encryption=none#England%20Amazon
